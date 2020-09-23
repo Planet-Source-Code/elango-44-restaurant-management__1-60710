@@ -1,0 +1,25 @@
+install this font before running the project or else the project may not work.
+
+steps to install:
+
+1.	Copy this folder named 'Elango' to one of your hard disk drives.
+
+2.	Go to your System Drive (where your current operating system is installed).
+
+3.	Go to the 'Windows', open the Fonts folder.
+
+4.	Click 'File' in the top left hand corner.
+
+5.	From the drop down list click 'Install New Font'.
+
+6.	Browse to the folder containing the new fonts that I have provided along with this application.
+
+7.	Select the Font and click OK to install the 
+Font named 'embosst2.ttf' to install the font Embossing Tape-2.
+
+8.	To check whether the font is installed or not, go to the Fonts folder in the Windows and check for Embossing Tape-2.  If it is there, the Font is installed.  If not, repeat the steps above.
+
+9.	You are ready to run the application.
+
+ 
+  	
